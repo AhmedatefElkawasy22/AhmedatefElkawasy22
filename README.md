@@ -69,7 +69,7 @@
 <hr>
 
 <h3 style="text-align: center;">
-  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="10%" alt="Connect with me" />
+  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="25%" alt="Connect with me" />
 </h3>
 
 
