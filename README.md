@@ -1,6 +1,7 @@
 <div align="center">
-  <img src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" alt="Centered Image" style="width: 100%; max-width: 400px;">
+  <img src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" alt="Centered Image" style="width: 60%; max-width: 200px;">
 </div>
+
 
 
 
