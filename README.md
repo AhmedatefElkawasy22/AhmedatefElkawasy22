@@ -104,7 +104,7 @@
 
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=AhmedatefElkawasy22&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AhmedatefElkawasy22&show_icons=true&locale=en&layout=compact" alt="3tef" />
 </div>
 
 
