@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" alt="Centered Image" style="width: 60%; max-width: 200px;">
+  <img src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif"
+       alt="https://www.chawtechsolutions.com/wp-content/uploads/2019/03/developer-dribbble.gif"
+style="width: 60%; max-width: 200px;">
 </div>
 
 
